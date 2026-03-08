@@ -1,5 +1,5 @@
 ## Hi there 👋
-My Name is Artur and I’m currently learning Game Engineering at Schoool for Games in Hamburg.
+My Name is Artur and I’m currently learning Game Engineering at School for Games in Hamburg.
 <!--
 **Artur-92/Artur-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
